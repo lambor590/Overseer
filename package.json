@@ -1,0 +1,20 @@
+{
+  "name": "overseer",
+  "version": "1.0.0",
+  "description": "Bot de discord para cosas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Wow is this a test?\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "The Ghost",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.4",
+    "nodeactyl": "^3.3.0"
+  }
+}
